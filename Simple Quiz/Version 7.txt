@@ -1,0 +1,3 @@
+In this version we have done list of points.
+
+1. We have passed the username and score details to the result screen and filled the score in the UI.

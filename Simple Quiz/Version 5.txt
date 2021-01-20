@@ -1,0 +1,6 @@
+In this version we have done list of points.
+
+1. We have added a click event for the submit button.
+2. We have loaded all the questions one by one from the list.
+3. We have validated the answer after selection to check whether the selected option is correct or wrong.
+4. We have created views for correct and wrong answers.

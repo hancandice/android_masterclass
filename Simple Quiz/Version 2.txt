@@ -1,0 +1,7 @@
+In this version we have done list of points.
+
+1. We have created a QuizQuestionsActivity and modified the activity parameters in manifest file as per our requirements.
+2. We have created a data model class named as Question.
+3. We have created a Constast Object file and using the data model class we have created a list of questions.
+4. We have added all the images to the drawable folder.
+5. Finally, we have got a list in the QuizQuestionsActivity class and printed all questions in the log.

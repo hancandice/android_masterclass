@@ -1,0 +1,4 @@
+In this version we have done list of points.
+
+1. We have stored the score of correct answers in one variable and shown the score in the toast message.
+2. We have created a result activity screen and designed it.

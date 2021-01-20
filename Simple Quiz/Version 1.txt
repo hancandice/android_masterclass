@@ -1,0 +1,5 @@
+In this version we have done list of points.
+
+1. Changed the theme colors as per our requirements.
+2. Modified and changed the activity parameters in manifest file as per our requirements.
+3. Designed the main screen view.
